@@ -14,3 +14,7 @@ App will use:
 -React
 -Google Maps API
 
+![mock up](/images/home.png)
+
+![mock up](/images/results.png)
+
