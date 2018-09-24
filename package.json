@@ -1,0 +1,24 @@
+{
+  "name": "Capstone",
+  "version": "1.0.0",
+  "description": "Gather your friends for a night of drinking but not sure which bars to go to?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dirkruschhaupt/Capstone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dirkruschhaupt/Capstone/issues"
+  },
+  "homepage": "https://github.com/dirkruschhaupt/Capstone#readme",
+  "dependencies": {
+    "knex": "^0.15.2",
+    "pg": "^7.4.3"
+  }
+}
