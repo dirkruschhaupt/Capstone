@@ -126,7 +126,7 @@ exports.seed = function(knex, Promise) {
     })
     .then(function () {
       // Inserts seed entries
-      return knex('all').insert([
+      return knex('bars').insert([
         {name: 'Container Bar', address: '90 Rainey St'},
         {name: 'Icenhauer’s', address: '83 Rainey St'},
         {name: 'Clive Bar', address: '609 Davis St'},
